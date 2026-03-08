@@ -6,7 +6,7 @@ Compliation repository of my technical experience with data and analytics.
 
 |    Practicum Experience |       Project Name     | Applied Skills       | 
 |   -------------------- |      -------------   |--------------- | 
-| Client Churn Classifier | [Supervised Learing, Gradient Boosting](https://github.com/dancortes992/Costumer-Churn-Classification-/tree/main) |  _LightGBM, XGBoost, CatBoost_ |
+| Client Churn Prediction | [Gradient boosting churn classification](https://github.com/dancortes992/Costumer-Churn-Classification-/tree/main) |  _LightGBM, XGBoost, CatBoost_ |
 | Computer Vision Image Processing  | [Computer Vision](https://github.com/dancortes992/Computer-Vision) | _pandas, sklearn, NumPy, PIL, TensorFlow_ |
 | Natural Language Processing (NLP)  |  [Machine Learning For Texts](https://github.com/dancortes992/Natural-Language-Processing)   | _matplotlib, scikit-learn, seaborn, LightGBM, NLTK, spaCy, TF-IDF_ |    
 |   Time Series Analysis  |  [Time Series Forecasting](https://github.com/dancortes992/Time-Series-Forecasting)         | _sklearn, statsmodels, pmdarima_ | 
